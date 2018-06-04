@@ -1,18 +1,18 @@
 // Final Project Milestone 1
 
-// Student defined values tester
+// 
 
 // Version 1.0
 
-// Date 2017/03/07
+// Date 2017/08/07
 
 // Author       Vaibhav Moradiya
 
 // Description
 
-// This program test the student implementation of the UI tools
+// 
 
-// and Application User Interface for submission.
+// Grocery Management System
 
 //
 
